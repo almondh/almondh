@@ -1,6 +1,5 @@
-### Learning Data Analystics & Science 🌱
-
 <!--
+### Learning Data Analystics & Science 🌱
 **almondh/almondh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,9 +12,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
+<div align=center>
    
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:volume893@gmail.com)](mailto:volume893@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyeon@bucketplace.net)](mailto:hyeon@bucketplace.net)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/almond_h/)](https://www.instagram.com/almond_h/)
+
 </div>
 
--->
+
