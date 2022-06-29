@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 <div align=center>
    
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyeon@bucketplace.net)](mailto:hyeon@bucketplace.net)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/almond_h/)](https://www.instagram.com/almond_h/)
 
 </div>
 
